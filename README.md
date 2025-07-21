@@ -141,16 +141,17 @@ b3-quote-app/
 
 ---
 
-## Próximas Features / Evoluções
+## Upcoming Features / Roadmap
 
 ### Frontend
 
-- [ ] Melhorar cobertura de teste unitários
-- [ ] Adicionar husky com pre commit, lint e conventional commits
-- [ ] Adicionar novas features: tela de home, montar tabelas em consulta de assets
-- [ ] Adicionar mais filtros e interação no próprio gráfico
-- [ ] Adicionar teste de integração
+- [ ] Improve unit test coverage
+- [ ] Add husky with pre-commit, lint and conventional commits
+- [ ] Add new features: home screen, build tables in assets consultation
+- [ ] Add more filters and interaction directly on the chart
+- [ ] Add integration tests
 
 ### Backend
 
-- [ ] Adicionar teste unitários
+- [ ] Add unit tests
+
