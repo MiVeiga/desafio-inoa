@@ -122,7 +122,6 @@ npm run test:coverage
 ## Project Structure
 
 ```
-
 b3-quote-app/
 ├── frontend/              # React application
 │   ├── src/
@@ -139,3 +138,19 @@ b3-quote-app/
     │   ├── types/         # TypeScript types
     │   └── utils/         # Utility functions
 ```
+
+---
+
+## Próximas Features / Evoluções
+
+### Frontend
+
+- [ ] Melhorar cobertura de teste unitários
+- [ ] Adicionar husky com pre commit, lint e conventional commits
+- [ ] Adicionar novas features: tela de home, montar tabelas em consulta de assets
+- [ ] Adicionar mais filtros e interação no próprio gráfico
+- [ ] Adicionar teste de integração
+
+### Backend
+
+- [ ] Adicionar teste unitários
